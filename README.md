@@ -5,6 +5,10 @@ This is a repo to store my CS study notes for my use in the future. If it can he
 
 ## SQL
 
+## Data Structure and Algorithms
+
 ## Machine Learning
+
+## Deep Learning
 
 ## Full-Stack
