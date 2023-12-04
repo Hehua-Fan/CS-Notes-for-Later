@@ -1,4 +1,4 @@
-# SQL concepts related to Midterm & Final
+# DBMS concepts related to Midterm & Final
 ## Table of Contents
 ### Concepts related to Midterm
 * [NULL in Arithmetric expression](#nullinarithmetricexpression)
