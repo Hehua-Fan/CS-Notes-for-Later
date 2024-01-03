@@ -1,12 +1,12 @@
 # 🥥 Table of Content
-* **[SQL Basics](#sql_basics)**
-* **[Window function](#window_function)**
-* **[Subquery](#subquery)**
-* **[Datetime](#datetime)**
+* **[01 - SQL Basics](#sql_basics)**
+* **[02 - Window function](#window_function)**
+* **[03 - Subquery](#subquery)**
+* **[04 - Datetime](#datetime)**
 <br><br><br>
 
 # 🥑 Get Started!
-## SQL Basics<a name = 'sql_basics'></a>
+## 01 - SQL Basics<a name = 'sql_basics'></a>
 
 | Problem | Level | Solution | Keyword | Done or not |
 | ------- | ---- | -------- | ---------------- | ---------------- |
@@ -30,3 +30,8 @@
 | **[1633. Percentage of Users Attended a Contest](https://leetcode.cn/problems/percentage-of-users-attended-a-contest)** | Easy | <a href="https://leetcode.cn/problems/product-sales-analysis-i/solutions/1470542/by-zg104-ch25/"><img src="https://github.com/Hehua-Fan/CS-Notes-for-Later/assets/95437839/20db1847-0640-4649-ac94-3d9baef3b003" width="88" alt="Solution"></a> |  | ❌ |
 | **[1777. Product's Price for Each Store](https://leetcode.cn/problems/products-price-for-each-store)** | Easy | <a href="https://leetcode.cn/problems/product-sales-analysis-i/solutions/1470542/by-zg104-ch25/"><img src="https://github.com/Hehua-Fan/CS-Notes-for-Later/assets/95437839/20db1847-0640-4649-ac94-3d9baef3b003" width="88" alt="Solution"></a> |  | ❌ |
 
+<br>
+
+## 02 - Window function<a name = 'window_function'></a>
+## 03 - Subquery<a name = 'subquery'></a>
+## 04 - Datetime<a name = 'datetime'></a>
