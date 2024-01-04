@@ -1,4 +1,4 @@
-# LeetCode-SQL70-Notes
+# SQL Basic Notes
 
 ## Table of Contents
 ### Basis SQL
