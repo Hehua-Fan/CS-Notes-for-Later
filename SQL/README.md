@@ -4,7 +4,7 @@
 * **[03 - Subquery](#subquery)**
 * **[04 - Datetime](#datetime)**
 
-<a href='https://github.com/Hehua-Fan/CS-Notes-for-Later/blob/main/SQL/SQL-Basic-Notes.md' style="color: red; font-size: 18px;"><strong>SQL Basic Notes</strong></a>
+🍉 **[SQL Basic Notes](https://github.com/Hehua-Fan/CS-Notes-for-Later/blob/main/SQL/SQL-Basic-Notes.md)**
 
 
 <br><br><br>
